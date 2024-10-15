@@ -3,37 +3,6 @@
 ## Membros
 
 * Rafael Nunes Mendes / rm98491
-* Eduardo do nascimento Silva / rm99225
-* Guilherme cavalheiro Siqueira / rm98305
-* João Eduardo Busar Pena / rm98243
-* Nicholas Calegari sanches / rm93912
-
-## Nesse repositório, você irá achar 1 arquivo .ipynb com o seguinte nome:
-
-1. cp5.ipynb
-
-### Observação: 
-Todos esses códigos .ipynb devem ser rodados no Google Colab.
-
-#### Arquivo 1:
-o arquivo cp5.pynb é um notebook que trata da análise de violações de dados usando visualizações para explorar incidentes de segurança que afetam um número significativo de indivíduos. O foco principal do notebook é:
-
-Distribuição dos indivíduos afetados: Ele analisa como as violações de dados afetam diferentes quantidades de pessoas, utilizando um gráfico de distribuição com uma escala logarítmica para capturar tanto violações pequenas quanto grandes.
-
-Análise dos tipos de violações de dados: O notebook identifica e apresenta os 10 tipos de violações mais comuns, permitindo uma visão clara de quais tipos de incidentes ocorrem com mais frequência.
-
-Em resumo, o notebook utiliza bibliotecas como matplotlib e seaborn para criar gráficos que ajudam a entender a escala e os tipos de violações de dados que ocorreram.
-
-## Pré-requisitos
-
-- **Python 3.x**
-- **Jupyter Notebook**
-- **Bibliotecas**: `matplotlib`, `seaborn`
-
-
-## Membros
-
-* Rafael Nunes Mendes / rm98491
 * Eduardo do Nascimento Silva / rm99225
 * Guilherme Cavalheiro Siqueira / rm98305
 * João Eduardo Busar Pena / rm98243
