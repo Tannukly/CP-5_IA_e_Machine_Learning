@@ -36,7 +36,6 @@ Em resumo, o notebook utiliza bibliotecas como **matplotlib** e **seaborn** para
 * Eduardo do Nascimento Silva / rm99225
 * Guilherme Cavalheiro Siqueira / rm98305
 * João Eduardo Busar Pena / rm98243
-* Nicholas Calegari Sanches / rm93912
 
 ## In this repository, you will find 1 .ipynb file with the following name:
 
