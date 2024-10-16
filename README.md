@@ -6,7 +6,6 @@
 * Eduardo do Nascimento Silva / rm99225
 * Guilherme Cavalheiro Siqueira / rm98305
 * João Eduardo Busar Pena / rm98243
-* Nicholas Calegari Sanches / rm93912
 
 ## Neste repositório, você encontrará 1 arquivo .ipynb com o seguinte nome:
 
